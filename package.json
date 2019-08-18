@@ -1,0 +1,25 @@
+{
+  "name": "json-api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch api.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enmah4k/json-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enmah4k/json-api-rest/issues"
+  },
+  "homepage": "https://github.com/Enmah4k/json-api-rest#readme"
+}
